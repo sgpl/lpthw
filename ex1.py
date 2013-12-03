@@ -1,0 +1,6 @@
+print "hello world"
+# print "to get stuff "
+# print "hello world"
+print "I can't type like this'"
+# print "hello world"
+# print "hello world"
